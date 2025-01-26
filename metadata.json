@@ -1,0 +1,7 @@
+{
+  "name": "SKP Token",
+  "symbol": "SKP",
+  "description": "Token da SKP",
+  "image": "https://cdn.discordapp.com/icons/297926773059092485/fa655830762ee2114a96cdf58fddab8a.webp",
+  "decimals": 9
+}
